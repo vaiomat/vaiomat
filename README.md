@@ -26,7 +26,7 @@ Analiza opłacalności różnych aktywności w grze z wykorzystaniem Excel'a ora
 ### 2. [Analiza szeregów czasowych – akcje Coca-Cola (1962–2021)](https://github.com/vaiomat/Akcje-Coca-Cola)
 **Opis:**  
 Analiza danych dotyczących cen akcji Coca-Cola z wykorzystaniem programu Rstudio. Wizualizacja składowych szeregu czasowego i prognozy. Sprawdzenie dokładności prognozy  
-**Stack:** `R`, `forecast`, `ggplot2`
+**Stack:** `R`, `RStudio`, `forecast`, `tseries`, `fpp3`, `ggplot2`
 
 
 ---
@@ -59,4 +59,4 @@ Profitability analysis of various activities in the game using Excel and VBA - 2
 **Description:**  
 Analysis of Coca-Cola stock price data using RStudio.  
 Includes visualization of time series components and forecasts, as well as forecast accuracy evaluation.  
-**Stack:** `R`, `forecast`, `ggplot2`
+**Stack:** `R`, `RStudio`, `forecast`, `tseries`, `fpp3`, `ggplot2`
