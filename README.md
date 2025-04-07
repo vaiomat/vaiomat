@@ -18,7 +18,7 @@ Zajmuję się analizą danych, uczeniem maszynowym oraz budowaniem rozwiązań, 
 
 ### 1. [VBA analiza zysków w grze Stardew Valley](https://github.com/vaiomat/VBA_Sardew_Valley/tree/main)
 **Opis:**  
-Analizę opłacalności różnych aktywności w grze z wykorzystaniem Excel'a oraz VBA.  
+Analiza opłacalności różnych aktywności w grze z wykorzystaniem Excel'a oraz VBA - projekt dwu osobowy.  
 **Stack:** Excel, VBA
 
 ---
@@ -41,10 +41,12 @@ I'm passionate about data analysis, machine learning, and building solutions tha
 - SQL, Jupyter, Power BI, R, VBA, Excel
 - Basics of machine learning (regression, classification, clustering, NLP)  
 - Time series analysis and forecasting
->
+
+## Projects:
+
 ### 1. [VBA Profit Analysis in Stardew Valley Game](https://github.com/vaiomat/VBA_Sardew_Valley/tree/main)  
 **Description:**  
-Profitability analysis of various activities in the game using Excel and VBA.  
+Profitability analysis of various activities in the game using Excel and VBA - 2-person group project.  
 **Stack:** Excel, VBA
 
 ---
