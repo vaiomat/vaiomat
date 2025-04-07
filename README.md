@@ -1,4 +1,4 @@
---- PL ---
+> ## 📌 Polish Version 🇵🇱
 # Cześć! Jestem Mateusz 👋
 
 Jestem studentem kierunku matematyka stosowana na Politechnice Łódzkiej. 
@@ -13,7 +13,7 @@ Zajmuję się analizą danych, uczeniem maszynowym oraz budowaniem rozwiązań, 
 - Analiza i prognozowanie szeregów czasowych
 
 
---- ANG ---
+> ## 📌 English Version 🇬🇧
 
 # Hi there! I'm Mateusz 👋
 
