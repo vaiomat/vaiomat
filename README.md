@@ -8,10 +8,16 @@
 > 
 > ## Co umiem:
 > - Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
-> - SQL, Jupyter, Power BI, R
+> - SQL, Jupyter, Power BI, R, VBA, Excel
 > - Podstawy ML (regresja, klasyfikacja, clustering, NLP)
 > - Analiza i prognozowanie szeregów czasowych
-
+> 
+> ## Projekty:
+> 
+> ### 1. [VBA analiza zysków w grze Stardew Valley](https://github.com/vaiomat/VBA_Sardew_Valley/tree/main)
+> **Opis:**  
+> Analizę opłacalności różnych aktywności w grze z wykorzystaniem Excel'a oraz VBA.  
+> **Stack:** Excel, VBA
 
 > ## 📌 English Version 🇬🇧
 > 
@@ -24,6 +30,11 @@
 > 
 > ## What I work with:
 > - Python (pandas, NumPy, scikit-learn, matplotlib, seaborn)  
-> - SQL, Jupyter, Power BI, R
+> - SQL, Jupyter, Power BI, R, VBA, Excel
 > - Basics of machine learning (regression, classification, clustering, NLP)  
-> - Time series analysis and forecasting 
+> - Time series analysis and forecasting
+>
+> ### 1. [VBA Profit Analysis in Stardew Valley Game](https://github.com/vaiomat/VBA_Sardew_Valley/tree/main)  
+> **Description:**  
+> Profitability analysis of various activities in the game using Excel and VBA.  
+> **Stack:** Excel, VBA
