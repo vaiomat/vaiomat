@@ -19,10 +19,14 @@ Zajmuję się analizą danych, uczeniem maszynowym oraz budowaniem rozwiązań, 
 ### 1. [VBA analiza zysków w grze Stardew Valley](https://github.com/vaiomat/VBA_Sardew_Valley/tree/main)
 **Opis:**  
 Analiza opłacalności różnych aktywności w grze z wykorzystaniem Excel'a oraz VBA - projekt dwu osobowy.  
-**Stack:** Excel, VBA
+**Stack:** `Excel`, `VBA`
 
 ---
 
+### 2. [Analiza szeregów czasowych – akcje Coca-Cola (1962–2021)](https://github.com/vaiomat/Akcje-Coca-Cola)
+**Opis:**  
+Analiza danych dotyczących cen akcji Coca-Cola z wykorzystaniem programu Rstudio. Wizualizacja składowych szeregu czasowego i prognozy. Sprawdzenie dokładności prognozy  
+**Stack:** `R`, `forecast`, `ggplot2`
 
 
 ---
@@ -47,6 +51,12 @@ I'm passionate about data analysis, machine learning, and building solutions tha
 ### 1. [VBA Profit Analysis in Stardew Valley Game](https://github.com/vaiomat/VBA_Sardew_Valley/tree/main)  
 **Description:**  
 Profitability analysis of various activities in the game using Excel and VBA - 2-person group project.  
-**Stack:** Excel, VBA
+**Stack:** `Excel`, `VBA`
 
 ---
+
+### 2. [Time Series Analysis – Coca-Cola Stock Prices (1962–2021)](https://github.com/vaiomat/Akcje-Coca-Cola)  
+**Description:**  
+Analysis of Coca-Cola stock price data using RStudio.  
+Includes visualization of time series components and forecasts, as well as forecast accuracy evaluation.  
+**Stack:** `R`, `forecast`, `ggplot2`
