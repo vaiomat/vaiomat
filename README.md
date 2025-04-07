@@ -1,7 +1,8 @@
 > ## 📌 Polish Version 🇵🇱
 > # Cześć! Jestem Mateusz 👋
 > 
-> Jestem studentem kierunku matematyka stosowana na Politechnice Łódzkiej. 
+> Jestem studentem kierunku matematyka stosowana na Politechnice Łódzkiej.
+> 
 > Zajmuję się analizą danych, uczeniem maszynowym oraz budowaniem rozwiązań, które łączą matematykę i kod.
 > 
 > ---
