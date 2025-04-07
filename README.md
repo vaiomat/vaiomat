@@ -12,12 +12,20 @@ Zajmuję się analizą danych, uczeniem maszynowym oraz budowaniem rozwiązań, 
 - Podstawy ML (regresja, klasyfikacja, clustering, NLP)
 - Analiza i prognozowanie szeregów czasowych
 
+---
+
 ## Projekty:
 
 ### 1. [VBA analiza zysków w grze Stardew Valley](https://github.com/vaiomat/VBA_Sardew_Valley/tree/main)
 **Opis:**  
 Analizę opłacalności różnych aktywności w grze z wykorzystaniem Excel'a oraz VBA.  
 **Stack:** Excel, VBA
+
+---
+
+
+
+---
 
 ## 📌 English Version 🇬🇧
 
@@ -38,3 +46,5 @@ I'm passionate about data analysis, machine learning, and building solutions tha
 **Description:**  
 Profitability analysis of various activities in the game using Excel and VBA.  
 **Stack:** Excel, VBA
+
+---
