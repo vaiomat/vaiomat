@@ -26,14 +26,15 @@ Analiza opłacalności różnych aktywności w grze z wykorzystaniem Excel'a ora
 ### 2. [Analiza szeregów czasowych – akcje Coca-Cola (1962–2021)](https://github.com/vaiomat/Akcje-Coca-Cola)
 **Opis:**  
 Analiza danych dotyczących cen akcji Coca-Cola z wykorzystaniem programu Rstudio.
-Wizualizacja składowych szeregu czasowego i prognozy. Sprawdzenie dokładności prognozy
+Wizualizacja składowych szeregu czasowego i prognozy. Sprawdzenie dokładności prognozy.
 **Stack:** `R`, `RStudio`, `forecast`, `tseries`, `fpp3`, `ggplot2`
 
 ---
 
 ### 3. [Analiza zbioru danych (python) – Pacjenci szpitala](https://github.com/vaiomat/Analiza-danych-pacjentow/tree/main)
 **Opis:**  
-Analiza zbioru danych z wynikami badań krwi pacjentów szpitala. Sprawdzenie poprawności danych, przedstawienie ich na wykresach, sprawdzenie zależności
+Analiza zbioru danych z wynikami badań krwi pacjentów szpitala. 
+Sprawdzenie poprawności danych, wizualizacja, sprawdzenie zależności.
 **Stack:** `Python`, `Jupyter Notebook`, `pandas`, `matplotlib`, `seaborn`, `numpy`
 
 ---
