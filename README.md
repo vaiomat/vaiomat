@@ -28,6 +28,12 @@ Analiza opłacalności różnych aktywności w grze z wykorzystaniem Excel'a ora
 Analiza danych dotyczących cen akcji Coca-Cola z wykorzystaniem programu Rstudio. Wizualizacja składowych szeregu czasowego i prognozy. Sprawdzenie dokładności prognozy  
 **Stack:** `R`, `RStudio`, `forecast`, `tseries`, `fpp3`, `ggplot2`
 
+---
+
+### 3. [Analiza zbioru danych (python) – Pacjenci szpitala](https://github.com/vaiomat/Analiza-danych-pacjentow/tree/main)
+**Opis:**  
+Analiza zbioru danych z wynikami badań krwi pacjentów szpitala. Sprawdzenie poprawności danych, przedstawienie ich na wykresach, sprawdzenie zależności
+**Stack:** `Python`, `Jupyter Notebook`, `pandas`, `matplotlib`, `seaborn`, `numpy`
 
 ---
 
@@ -60,3 +66,11 @@ Profitability analysis of various activities in the game using Excel and VBA - 2
 Analysis of Coca-Cola stock price data using RStudio.  
 Includes visualization of time series components and forecasts, as well as forecast accuracy evaluation.  
 **Stack:** `R`, `RStudio`, `forecast`, `tseries`, `fpp3`, `ggplot2`
+
+---
+
+### 3. [Dataset Analysis (Python) – Hospital Patients](https://github.com/vaiomat/Analiza-danych-pacjentow/tree/main)  
+**Description:**  
+Analysis of a dataset containing hospital patients’ blood test results.  
+Includes data validation, visualization, and exploration of variable relationships.  
+**Stack:** `Python`, `Jupyter Notebook`, `pandas`, `matplotlib`, `seaborn`, `numpy`
