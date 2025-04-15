@@ -35,6 +35,7 @@ Wizualizacja składowych szeregu czasowego i prognozy. Sprawdzenie dokładności
 **Opis:**  
 Analiza zbioru danych z wynikami badań krwi pacjentów szpitala. 
 Sprawdzenie poprawności danych, wizualizacja, sprawdzenie zależności.
+
 **Stack:** `Python`, `Jupyter Notebook`, `pandas`, `matplotlib`, `seaborn`, `numpy`
 
 ---
