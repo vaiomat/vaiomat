@@ -19,6 +19,7 @@ Zajmuję się analizą danych, uczeniem maszynowym oraz budowaniem rozwiązań, 
 ### 1. [VBA - Analiza zysków w grze Stardew Valley](https://github.com/vaiomat/VBA_Sardew_Valley/tree/main)
 **Opis:**  
 Analiza opłacalności różnych aktywności w grze z wykorzystaniem Excel'a oraz VBA - projekt dwu osobowy.  
+
 **Stack:** `Excel`, `VBA`
 
 ---
@@ -27,6 +28,7 @@ Analiza opłacalności różnych aktywności w grze z wykorzystaniem Excel'a ora
 **Opis:**  
 Analiza danych dotyczących cen akcji Coca-Cola z wykorzystaniem programu Rstudio.
 Wizualizacja składowych szeregu czasowego i prognozy. Sprawdzenie dokładności prognozy.
+
 **Stack:** `R`, `RStudio`, `forecast`, `tseries`, `fpp3`, `ggplot2`
 
 ---
@@ -60,6 +62,7 @@ I'm passionate about data analysis, machine learning, and building solutions tha
 ### 1. [VBA - Profit Analysis in Stardew Valley Game](https://github.com/vaiomat/VBA_Sardew_Valley/tree/main)  
 **Description:**  
 Profitability analysis of various activities in the game using Excel and VBA - 2-person group project.  
+
 **Stack:** `Excel`, `VBA`
 
 ---
@@ -68,6 +71,7 @@ Profitability analysis of various activities in the game using Excel and VBA - 2
 **Description:**  
 Analysis of Coca-Cola stock price data using RStudio.  
 Includes visualization of time series components and forecasts, as well as forecast accuracy evaluation.  
+
 **Stack:** `R`, `RStudio`, `forecast`, `tseries`, `fpp3`, `ggplot2`
 
 ---
@@ -76,4 +80,5 @@ Includes visualization of time series components and forecasts, as well as forec
 **Description:**  
 Analysis of a dataset containing hospital patients’ blood test results.  
 Includes data validation, visualization, and exploration of variable relationships.  
+
 **Stack:** `Python`, `Jupyter Notebook`, `pandas`, `matplotlib`, `seaborn`, `numpy`
