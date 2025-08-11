@@ -42,6 +42,14 @@ Sprawdzenie poprawności danych, wizualizacja, sprawdzenie zależności.
 
 ---
 
+### 4. [Analiza zbioru danych (python) oraz prezentacja wyników (PowerPoint) – Ceny używanych samochodów](https://github.com/vaiomat/Analiza-cen-uzywanych-samochodow)
+**Opis:**  
+Zadanie polegało na przygotowaniu modelu regresyjnego oraz analitycznego pipeline’u – od wstępnej eksploracji danych po ocenę wyników.
+
+**Stack:** `Python`, `Jupyter Notebook`, `pandas`, `matplotlib`, `seaborn`, `numpy`, `sklearn`, `PowerPoint`
+
+---
+
 ## 📌 English Version 🇬🇧
 
 # Hi there! I'm Mateusz 👋
@@ -82,3 +90,11 @@ Analysis of a dataset containing hospital patients’ blood test results.
 Includes data validation, visualization, and exploration of variable relationships.  
 
 **Stack:** `Python`, `Jupyter Notebook`, `pandas`, `matplotlib`, `seaborn`, `numpy`
+
+---
+
+### 4. [Data analysis (Python) and presentation of results (PowerPoint) – Used Car Price](https://github.com/vaiomat/Analiza-cen-uzywanych-samochodow)  
+**Description:**  
+The task involved building a regression model and analytical pipeline – from data exploration to model evaluation.
+
+**Stack:** `Python`, `Jupyter Notebook`, `pandas`, `matplotlib`, `seaborn`, `numpy`, `sklearn`, `PowerPoint`
